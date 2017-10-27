@@ -57,21 +57,6 @@ public class User extends NamedFacebookType {
   @Setter
   @Facebook
   private FacebookType context;
-
-  
-  
-  
-//  @Getter
-//  @Setter
-//  @Facebook("name")
-//  private String name;
-//
-//  @Getter
-//  @Setter
-//  @Facebook("id")
-//  private String id;
-
-  
   
   /**
    * The user's first name.
